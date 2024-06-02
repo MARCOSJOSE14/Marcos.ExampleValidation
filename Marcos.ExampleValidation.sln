@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marcos.ExampleValidation.Api", "Marcos.ExampleValidation.Api\Marcos.ExampleValidation.Api.csproj", "{2DFD9EE5-532E-4AF7-96F2-05CE70BBD767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFD9EE5-532E-4AF7-96F2-05CE70BBD767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFD9EE5-532E-4AF7-96F2-05CE70BBD767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFD9EE5-532E-4AF7-96F2-05CE70BBD767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFD9EE5-532E-4AF7-96F2-05CE70BBD767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
