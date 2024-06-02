@@ -24,7 +24,7 @@ app.Run();
  
 public class EntityUser
 {
-    public int UserId { get; set; }
+    // public int UserId { get; set; }
     public string FullName { get; set; } = null!;
     public string LastName { get; set; } = null!;
     public DateTime Birth { get; set; }
